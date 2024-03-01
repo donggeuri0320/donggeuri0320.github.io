@@ -1,0 +1,13 @@
+{
+  "name": "donggeuri0320.github.io",
+  "packageManager": "yarn@4.1.0",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.8",
+    "@vuepress/theme-default": "^2.0.0-rc.18",
+    "vuepress": "^2.0.0-rc.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
