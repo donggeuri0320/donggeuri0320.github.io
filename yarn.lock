@@ -1443,6 +1443,7 @@ __metadata:
   dependencies:
     "@vuepress/bundler-vite": "npm:^2.0.0-rc.8"
     "@vuepress/theme-default": "npm:^2.0.0-rc.18"
+    markdown-it: "npm:^14.0.0"
     vuepress: "npm:^2.0.0-rc.8"
   languageName: unknown
   linkType: soft
