@@ -11,6 +11,8 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "markdown-it": "^14.0.0"
+    "@giscus/vue": "^3.0.0",
+    "markdown-it": "^14.0.0",
+    "vue": "^3.4.21"
   }
 }

@@ -6,4 +6,6 @@
 func init()
 ```
 
+<Comment />
+
 [back](../README.md)
